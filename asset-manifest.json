@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/challenge-2-starter-code/static/css/main.672141e8.css",
+    "main.js": "/challenge-2-starter-code/static/js/main.2d494938.js",
+    "static/media/sushi.jpg": "/challenge-2-starter-code/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
+    "index.html": "/challenge-2-starter-code/index.html",
+    "main.672141e8.css.map": "/challenge-2-starter-code/static/css/main.672141e8.css.map",
+    "main.2d494938.js.map": "/challenge-2-starter-code/static/js/main.2d494938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672141e8.css",
+    "static/js/main.2d494938.js"
+  ]
+}
